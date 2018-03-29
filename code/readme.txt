@@ -1,3 +1,6 @@
-git is a control systerm
-git is a free software
+----------Time:2018.03.29------------
+
+this rc github
+
+-------------------------------------
 
